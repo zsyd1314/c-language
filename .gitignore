@@ -1,0 +1,16 @@
+# Visual Studio build output
+.vs/
+**/.vs/
+**/bin/
+**/obj/
+**/x64/
+**/Debug/
+**/Release/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.ipch
+*.sdf
+*.opensdf
+*.bak_*

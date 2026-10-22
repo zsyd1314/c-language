@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="动态内存/动态内存.vcxproj" Id="6da7e44b-6ea2-4893-b285-ac41a946e193" />
+</Solution>
