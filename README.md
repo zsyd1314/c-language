@@ -1,3 +1,5 @@
+> 仓库地址：https://github.com/zsyd1314/c-language
+
 # c语言
 
 这是我在学习 C 语言过程中写的 Visual Studio 项目集合。
@@ -25,3 +27,14 @@ Project9\Project9\Project9.vcxproj
 - 仓库只保存源代码和项目配置。
 - `.vs`、`x64`、`Debug`、`Release`、`bin`、`obj` 等编译生成内容不会提交。
 - 源码统一按 UTF-8 with BOM 保存；在中文 Windows 下编译时，字符串按 GBK/936 输出，避免控制台中文乱码。
+
+## 更新仓库
+
+以后请在 `E:\C语言代码仓库` 里打开和修改项目，然后执行：
+
+```powershell
+git add .
+git commit -m "更新说明"
+git push
+```
+
