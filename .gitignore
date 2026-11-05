@@ -1,0 +1,13 @@
+# Visual Studio 编译产物
+[xX]64/
+.vs/
+Debug/
+Release/
+*.obj
+*.pdb
+*.exe
+*.ilk
+*.log
+*.tlog
+*.idb
+*.ipch
