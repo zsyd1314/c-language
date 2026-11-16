@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="闰年/闰年.vcxproj" Id="08f82cea-859b-4f9e-9341-23a81d1ec158" />
+</Solution>
